@@ -1,0 +1,13 @@
+main {
+  border: 1px solid #ff52bf;
+  margin: auto;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.landscape {
+  width: 3.5in;
+  height: 2in;
+  font-family:"Comic Sans MS";
+  color:#ff52bf
+}
